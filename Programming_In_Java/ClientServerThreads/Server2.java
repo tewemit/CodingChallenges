@@ -2,7 +2,7 @@
  * @class Server2
  * @author Tewelle
  * @version version 1.0
- * @copy-right only for Polystar internal use.
+ * @copy-right - use it as long as you give credit to the author
  * @date 21-06-2012
  */
 //package server2;
